@@ -5,7 +5,7 @@
         versionCode = "10"
         version     = "1.0" >
 
-	<name>Lost and Found</name>
+	<name>Lost &amp; Found</name>
 
 	<description>Official app for Berlin based electronic music producer Lost &amp; Found.</description>
 
